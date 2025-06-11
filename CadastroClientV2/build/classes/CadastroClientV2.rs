@@ -1,0 +1,2 @@
+cadastroclientv2.CadastroClientV2
+cadastroserver.CadastroThreadV2
